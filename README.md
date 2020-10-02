@@ -1,2 +1,2 @@
 # tyler_train
-To help Tyler Quop Pizz
+To help Tyler Pop Quiz
